@@ -1,4 +1,16 @@
-### Hi there 👋
+# Hi👋, I'm _*Srijak.*_
+## Welcome to my GitHub repository!
+### I am a **developer.**
+#### Feel free to explore and utilize any code you find useful.
+
+
+```
+# Hi, I'm _*Srijak.*_
+## Welcome to my GitHub repository!
+### I am a **developer.**
+#### Feel free to explore and utilize any code you find useful.
+```
+
 
 <!--
 **srijakd/srijakd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
