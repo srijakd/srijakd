@@ -1,7 +1,7 @@
-# Hi, I'm _*Srijak.*_
+# Hi👋, I'm _*Srijak.*_
 I'm a passionate developer who embarked on a journey fueled by a deep curiosity for technology, earning my Bachelor's degree in Computer Science and Information Technology from Tribhuvan University, Nepal. My path has been one of immersion in the realm of computer science, where I've explored new concepts and eagerly shared my insights.
 ## 🚀 About Me
- Presently, I'm contributing as a Spring Boot developer at Laconic Laconic, Thailand, where I continue to immerse myself in the dynamic world of software development.
+ Presently, I'm contributing as a Spring Boot developer at Laconic Technology, Thailand, where I continue to immerse myself in the dynamic world of software development.
 
 ![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=srijakd&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
